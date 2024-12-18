@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="detailcrud.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="181"/>
+        <CursorPos X="13" Y="211"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="2">
+      <Position>
+        <Filename Value="detailcrud.lpr"/>
+        <Caret Line="244" Column="10" TopLine="213"/>
+      </Position>
+      <Position>
+        <Filename Value="detailcrud.lpr"/>
+        <Caret Line="202" Column="10" TopLine="169"/>
+      </Position>
+      <Position>
+        <Filename Value="detailcrud.lpr"/>
+        <Caret Line="207" Column="10" TopLine="174"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

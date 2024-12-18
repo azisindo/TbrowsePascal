@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="detailbarang.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="95"/>
+        <CursorPos X="10" Y="123"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="3">
+      <Position>
+        <Filename Value="detailbarang.lpr"/>
+        <Caret Line="98" Column="33" TopLine="68"/>
+      </Position>
+      <Position>
+        <Filename Value="detailbarang.lpr"/>
+        <Caret Line="91" Column="15" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="detailbarang.lpr"/>
+        <Caret Line="97" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="detailbarang.lpr"/>
+        <Caret Line="93" Column="17" TopLine="87"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
